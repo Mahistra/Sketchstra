@@ -47,7 +47,7 @@ Export
 
 There should be as little friction as possible between opening the website and making something.
 
-3. V1 Goal
+## 3. V1 Goal
 
 The first version focuses on creating a strong and enjoyable drawing experience.
 
@@ -93,7 +93,7 @@ Open drawing
 Export as PNG
 Export as SVG
 Sketchstra project file
-4. V1 Non-Goals
+## 4. V1 Non-Goals
 
 The following are intentionally outside the initial version:
 
@@ -113,7 +113,7 @@ These may be considered in future versions.
 
 The priority is to make the core canvas excellent before adding more systems.
 
-5. Design Philosophy
+## 5. Design Philosophy
 
 Sketchstra should feel lightweight rather than overwhelming.
 
@@ -145,7 +145,7 @@ Responsive
 
 Sketchstra should work across common screen sizes.
 
-6. Initial Interface
+## 6. Initial Interface
 
 The initial interface will generally contain:
 
@@ -172,7 +172,7 @@ This is only a starting concept.
 
 The final interface will be designed and refined during development.
 
-7. Technology Direction
+## 7. Technology Direction
 
 Sketchstra will initially be a web-only application.
 
@@ -200,7 +200,7 @@ Initial persistence may use browser-based storage.
 
 Cloud storage and databases can be introduced in later versions.
 
-8. Development Principles
+## 8. Development Principles
 Build the Core First
 
 The canvas is the heart of Sketchstra.
@@ -225,7 +225,7 @@ Performance Matters
 
 The canvas should remain responsive as drawings become larger.
 
-9. Open Source
+## 9. Open Source
 
 Sketchstra is intended to be developed openly under the Mahistra organization.
 
@@ -243,7 +243,7 @@ Contributors do not need to understand the entire project before making their fi
 
 Issues will be created at different difficulty levels as the project develops.
 
-10. Contribution Areas
+## 10. Contribution Areas
 
 Future contribution areas may include:
 
@@ -285,7 +285,7 @@ AI-assisted drawing
 Diagram generation
 Diagram understanding
 Smart editing
-11. Development Roadmap
+## 11. Development Roadmap
 Phase 1 — Foundation
 Project setup
 Development environment
@@ -335,7 +335,7 @@ Deployment
 Documentation
 Contributor onboarding
 Public release
-12. Future Direction
+## 12. Future Direction
 
 Once the core drawing experience is stable, Sketchstra may grow into a broader visual workspace.
 
@@ -371,7 +371,7 @@ Diagram → explanation
 
 These are future possibilities, not V1 requirements.
 
-13. Success Criteria
+## 13. Success Criteria
 
 Sketchstra V1 should answer "yes" to these questions:
 
@@ -388,7 +388,7 @@ Can contributors run the project locally without unnecessary complexity?
 
 If the answer is yes, V1 is doing its job.
 
-14. Guiding Principle
+## 14. Guiding Principle
 
 Don't make drawing complicated. Make the experience better.
 
