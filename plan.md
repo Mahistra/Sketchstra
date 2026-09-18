@@ -30,7 +30,7 @@ Sketchstra will have its own design, interactions, and future direction.
 
 A user should be able to open Sketchstra and start drawing immediately.
 
-```text
+
 Open Sketchstra
        ↓
 Get a canvas
