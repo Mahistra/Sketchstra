@@ -76,54 +76,19 @@ An open-source web canvas that makes drawing <b style="color:#f5d76e;">feel good
 
 <div align="center" style="background:#0a0a0d; color:#e9e6df; padding:32px 24px;">
 
-<!-- Features -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate; border-spacing:12px;">
-  <tr>
-    <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
-      <b style="color:#f5d76e; font-size:26px;">✏️</b>
-      <div style="color:#d4af37; font-weight:700; margin-top:6px;">Full Toolkit</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Pen, shapes, arrows, text, eraser — each with a shortcut.</div>
-    </td>
-    <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
-      <b style="color:#f5d76e; font-size:26px;">🗺️</b>
-      <div style="color:#d4af37; font-weight:700; margin-top:6px;">Infinite Canvas</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Pan anywhere, zoom 0.1× – 10×.</div>
-    </td>
-    <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
-      <b style="color:#f5d76e; font-size:26px;">⚡</b>
-      <div style="color:#d4af37; font-weight:700; margin-top:6px;">Instant Start</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">No sign-up, no backend. Just open and draw.</div>
-    </td>
-    <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
-      <b style="color:#f5d76e; font-size:26px;">🎨</b>
-      <div style="color:#d4af37; font-weight:700; margin-top:6px;">Styling</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Stroke, fill, width, opacity &amp; themes.</div>
-    </td>
-  </tr>
-</table>
-
-<details style="margin-top:6px;">
-<summary style="color:#d4af37; font-weight:600; cursor:pointer;"><b>✦&nbsp; More features</b></summary>
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse:separate; border-spacing:12px;">
-  <tr>
-    <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:18px 12px; width:50%;">
-      <div style="color:#d4af37; font-weight:700;">🖱️ Canvas &amp; Editing</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:6px; line-height:1.7;">
-        Move, multi-select, delete · Undo / Redo <br/>
-        Zoom controls · Keyboard shortcuts
-      </div>
-    </td>
-    <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:18px 12px; width:50%;">
-      <div style="color:#d4af37; font-weight:700;">🗺️ On the Roadmap (V1)</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:6px; line-height:1.7;">
-        Save / Open · PNG &amp; SVG export · Copy / Paste <br/>
-        Resize handles · Responsive polish
-      </div>
-    </td>
-  </tr>
-</table>
-</details>
+<!-- Contribution CTA -->
+<div style="margin-top:22px; color:#d4af37; font-weight:700; letter-spacing:3px;">🤝 OPEN FOR CONTRIBUTION</div>
+<p style="color:#9d978a; margin:10px 0; font-size:15px; max-width:620px; line-height:1.7;">
+We're building Sketchstra in the open — and beginners are very welcome. You don't need to
+understand the whole project to make your first contribution. All the details live in our docs:
+</p>
+<div style="margin:6px 0 0;">
+  <a href="plan.md" style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:999px; padding:10px 24px; text-decoration:none;">📘 Project plan</a>
+  &nbsp;
+  <a href="CONTRIBUTING.md" style="display:inline-block; border:1px solid #d4af37; color:#d4af37; font-weight:700; border-radius:999px; padding:10px 24px; text-decoration:none;">📝 Contributing guide</a>
+  &nbsp;
+  <a href="https://github.com/Mahistra/Sketchstra/issues" style="display:inline-block; border:1px solid #d4af37; color:#d4af37; font-weight:700; border-radius:999px; padding:10px 24px; text-decoration:none;">🚩 Open issues</a>
+</div>
 
 <!-- Tech stack -->
 <div style="margin-top:22px; color:#9d978a;">
@@ -167,19 +132,6 @@ npm run dev   # open http://localhost:5173
 <div align="center">
   <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=128" width="76" height="76" title="prabhakarReddykanakanti" style="border-radius:50%; border:3px solid #8a6a00; box-shadow:0 0 10px rgba(212,175,55,0.3); margin:8px;" alt="prabhakarReddykanakanti"/></a>
 </div>
-
-<!-- Contribute -->
-<div style="margin-top:28px; color:#d4af37; font-weight:700; letter-spacing:3px;">🤝 OPEN FOR CONTRIBUTION</div>
-<p style="color:#9d978a; margin:8px 0; font-size:14px; max-width:600px; line-height:1.6;">
-Beginners welcome — you don't need to understand the whole project to make your first contribution.
-</p>
-<p style="margin:4px 0 0;">
-  <a href="https://github.com/Mahistra/Sketchstra/issues" style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:999px; padding:9px 22px; text-decoration:none;">Browse issues</a>
-  &nbsp;
-  <a href="plan.md" style="display:inline-block; border:1px solid #d4af37; color:#d4af37; font-weight:700; border-radius:999px; padding:9px 22px; text-decoration:none;">Read the plan</a>
-  &nbsp;
-  <a href="CONTRIBUTING.md" style="display:inline-block; border:1px solid #d4af37; color:#d4af37; font-weight:700; border-radius:999px; padding:9px 22px; text-decoration:none;">Contributing guide</a>
-</p>
 
 <div style="height:1px; background:linear-gradient(90deg, transparent, #d4af37, transparent); margin:34px 0 18px;"></div>
 
