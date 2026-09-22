@@ -1,23 +1,16 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="Sketchstra" width="560"/>
+  <img src="Sketchstra.png" alt="Sketchstra" />
 </p>
 
-<p align="center">
-  <b>The page where you can express your creativity.</b>
-</p>
-
+<br>
+<hr>
 <p align="center">
   <img src="https://img.shields.io/badge/License-MIT-0a0a0d?style=flat-square&logo=opensourceinitiative&logoColor=d4af37&labelColor=1a1a1f&color=d4af37" alt="MIT License"/>
   <img src="https://img.shields.io/github/forks/Mahistra/Sketchstra?style=flat-square&logo=github&logoColor=d4af37&labelColor=1a1a1f&color=d4af37" alt="Forks"/>
   <img src="https://img.shields.io/github/stars/Mahistra/Sketchstra?style=flat-square&logo=github&logoColor=d4af37&labelColor=1a1a1f&color=d4af37" alt="Stars"/>
   <img src="https://img.shields.io/github/issues/Mahistra/Sketchstra?style=flat-square&logo=github&logoColor=d4af37&labelColor=1a1a1f&color=d4af37" alt="Open issues"/>
 </p>
-
-<p align="center">
-  <img src="Sketchstra.png" alt="Sketchstra" width="52%"/>
-</p>
-
-<img src="assets/divider.svg" alt="" width="100%"/>
+<hr>
 
 ## 🎯 Open for Contribution
 
@@ -50,30 +43,25 @@ cd Sketchstra
 npm install
 npm run dev   # open http://localhost:5173
 ```
-
-<img src="assets/divider.svg" alt="" width="100%"/>
+<hr>
 
 ## 👑 Contributors
 
-The people building Sketchstra.
+The Master Minds behind the canvas.
 
 <p align="center">
   <a href="https://github.com/Mahistra"><img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=128" width="76" height="76" alt="Mahistra"/></a>
   <a href="https://github.com/ManoShruthiS"><img src="https://avatars.githubusercontent.com/u/202288415?v=4&s=128" width="76" height="76" alt="ManoShruthiS"/></a>
 </p>
 
-<p align="center">
-  <img src="assets/divider.svg" alt="" width="40%"/>
-</p>
+<hr>
 
-## 🌱 Soon to be Contributors
+## 🌱 Next Contributors
 
-The next people building Sketchstra.
+The Curious Minds who were inspired enough to fork — their first PR is loading…
 
 <p align="center">
   <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=128" width="76" height="76" alt="prabhakarReddykanakanti"/></a>
 </p>
-
-<p align="center">
-  <img src="assets/banner-mahistra.svg" alt="Mahistra since 2025" width="100%"/>
-</p>
+<hr>
+<h6 align="center">Mahistra @2025</h6>
