@@ -1,7 +1,7 @@
 # Sketchstra
 
 <p align="center">
-  <img src="sketchstra-ad.png" alt="Sketchstra banner" width="100%" />
+  <img src="Sketchstra.png" alt="Sketchstra banner" width="100%" />
 </p>
 
 An open-source visual thinking and collaboration platform.
