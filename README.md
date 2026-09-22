@@ -57,8 +57,7 @@
 <b style="color:#d4af37; font-size:22px; letter-spacing:1px;">A simple, beautiful, and enjoyable space to draw.</b>
 
 <p style="color:#b9b4a8; max-width:640px; margin:14px auto; line-height:1.6;">
-Open a tab. Pick a tool. Draw. An open-source visual canvas that makes drawing on
-the web <b style="color:#f5d76e;">feel good</b> — no account, no backend, no friction.
+An open-source web canvas that makes drawing <b style="color:#f5d76e;">feel good</b> — no account, no backend, no friction.
 </p>
 
 <!-- badges -->
@@ -83,22 +82,22 @@ the web <b style="color:#f5d76e;">feel good</b> — no account, no backend, no f
     <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
       <b style="color:#f5d76e; font-size:26px;">✏️</b>
       <div style="color:#d4af37; font-weight:700; margin-top:6px;">Full Toolkit</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Pen, shapes, arrows, text, eraser — every tool on a shortcut.</div>
+      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Pen, shapes, arrows, text, eraser — each with a shortcut.</div>
     </td>
     <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
       <b style="color:#f5d76e; font-size:26px;">🗺️</b>
       <div style="color:#d4af37; font-weight:700; margin-top:6px;">Infinite Canvas</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Pan anywhere, zoom 0.1× – 10× on a smooth dotted grid.</div>
+      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Pan anywhere, zoom 0.1× – 10×.</div>
     </td>
     <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
       <b style="color:#f5d76e; font-size:26px;">⚡</b>
       <div style="color:#d4af37; font-weight:700; margin-top:6px;">Instant Start</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">No account, no sign-up, no backend. Just open and draw.</div>
+      <div style="color:#9d978a; font-size:13px; margin-top:4px;">No sign-up, no backend. Just open and draw.</div>
     </td>
     <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:20px 12px; width:25%;">
       <b style="color:#f5d76e; font-size:26px;">🎨</b>
-      <div style="color:#d4af37; font-weight:700; margin-top:6px;">Style It Your Way</div>
-      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Stroke, fill, width, opacity — plus dark &amp; light themes.</div>
+      <div style="color:#d4af37; font-weight:700; margin-top:6px;">Styling</div>
+      <div style="color:#9d978a; font-size:13px; margin-top:4px;">Stroke, fill, width, opacity &amp; themes.</div>
     </td>
   </tr>
 </table>
@@ -111,15 +110,15 @@ the web <b style="color:#f5d76e;">feel good</b> — no account, no backend, no f
     <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:18px 12px; width:50%;">
       <div style="color:#d4af37; font-weight:700;">🖱️ Canvas &amp; Editing</div>
       <div style="color:#9d978a; font-size:13px; margin-top:6px; line-height:1.7;">
-        Move &amp; multi-select (Shift) · Delete · Undo / Redo history <br/>
-        Zoom controls · Keyboard shortcuts for every tool
+        Move, multi-select, delete · Undo / Redo <br/>
+        Zoom controls · Keyboard shortcuts
       </div>
     </td>
     <td align="center" style="background:#121218; border:1px solid rgba(212,175,55,0.3); border-radius:16px; padding:18px 12px; width:50%;">
       <div style="color:#d4af37; font-weight:700;">🗺️ On the Roadmap (V1)</div>
       <div style="color:#9d978a; font-size:13px; margin-top:6px; line-height:1.7;">
         Save / Open · PNG &amp; SVG export · Copy / Paste <br/>
-        Resize handles · Responsive &amp; accessibility polish
+        Resize handles · Responsive polish
       </div>
     </td>
   </tr>
@@ -130,12 +129,12 @@ the web <b style="color:#f5d76e;">feel good</b> — no account, no backend, no f
 <div style="margin-top:22px; color:#9d978a;">
   <span style="color:#d4af37; font-weight:700; letter-spacing:3px;">TECH STACK</span>
   <div style="margin-top:10px;">
-    <span style="display:inline-block; background:#121218; border:1px solid rgba(212,175,55,0.35); color:#f5d76e; border-radius:999px; padding:5px 14px; font-size:13px; margin:3px;">⚛️ React 19</span>
-    <span style="display:inline-block; background:#121218; border:1px solid rgba(212,175,55,0.35); color:#f5d76e; border-radius:999px; padding:5px 14px; font-size:13px; margin:3px;">🔷 TypeScript</span>
-    <span style="display:inline-block; background:#121218; border:1px solid rgba(212,175,55,0.35); color:#f5d76e; border-radius:999px; padding:5px 14px; font-size:13px; margin:3px;">⚡ Vite</span>
-    <span style="display:inline-block; background:#121218; border:1px solid rgba(212,175,55,0.35); color:#f5d76e; border-radius:999px; padding:5px 14px; font-size:13px; margin:3px;">🎨 Tailwind CSS</span>
-    <span style="display:inline-block; background:#121218; border:1px solid rgba(212,175,55,0.35); color:#f5d76e; border-radius:999px; padding:5px 14px; font-size:13px; margin:3px;">🐻 Zustand</span>
-    <span style="display:inline-block; background:#121218; border:1px solid rgba(212,175,55,0.35); color:#f5d76e; border-radius:999px; padding:5px 14px; font-size:13px; margin:3px;">🖼️ Canvas 2D</span>
+    <span style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:8px; padding:7px 16px; font-size:13px; margin:4px; box-shadow:0 3px 10px rgba(212,175,55,0.25);">⚛️ React 19</span>
+    <span style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:8px; padding:7px 16px; font-size:13px; margin:4px; box-shadow:0 3px 10px rgba(212,175,55,0.25);">🔷 TypeScript</span>
+    <span style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:8px; padding:7px 16px; font-size:13px; margin:4px; box-shadow:0 3px 10px rgba(212,175,55,0.25);">⚡ Vite</span>
+    <span style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:8px; padding:7px 16px; font-size:13px; margin:4px; box-shadow:0 3px 10px rgba(212,175,55,0.25);">🎨 Tailwind CSS</span>
+    <span style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:8px; padding:7px 16px; font-size:13px; margin:4px; box-shadow:0 3px 10px rgba(212,175,55,0.25);">🐻 Zustand</span>
+    <span style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:8px; padding:7px 16px; font-size:13px; margin:4px; box-shadow:0 3px 10px rgba(212,175,55,0.25);">🖼️ Canvas 2D</span>
   </div>
 </div>
 
@@ -154,30 +153,25 @@ npm run dev   # open http://localhost:5173
 
 <!-- Contributors -->
 <div style="margin-top:26px; color:#d4af37; font-weight:700; letter-spacing:3px;">👑 CONTRIBUTORS</div>
-<p style="color:#9d978a; margin:8px 0 0; font-size:14px;">Every picture was earned by a pull request.</p>
+<p style="color:#9d978a; margin:8px 0 0; font-size:14px;">Thanks to everyone who has built Sketchstra.</p>
 <br/>
 <div align="center">
   <a href="https://github.com/Mahistra"><img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=128" width="76" height="76" title="Mahistra" style="border-radius:50%; border:3px solid #d4af37; box-shadow:0 0 14px rgba(212,175,55,0.55); margin:8px;" alt="Mahistra"/></a>
   <a href="https://github.com/ManoShruthiS"><img src="https://avatars.githubusercontent.com/u/202288415?v=4&s=128" width="76" height="76" title="ManoShruthiS" style="border-radius:50%; border:3px solid #d4af37; box-shadow:0 0 14px rgba(212,175,55,0.55); margin:8px;" alt="ManoShruthiS"/></a>
 </div>
 
-<details style="margin-top:16px;">
-<summary style="color:#d4af37; font-weight:600; cursor:pointer;"><b>🌱&nbsp; Soon to be contributors</b></summary>
-<br/>
-<p style="color:#9d978a; margin:0; font-size:14px;">Forked Sketchstra and gearing up to join — welcome aboard! 🎉</p>
+<!-- Soon to be contributors -->
+<div style="margin-top:24px; color:#d4af37; font-weight:700; letter-spacing:3px;">🌱 SOON TO BE CONTRIBUTORS</div>
+<p style="color:#9d978a; margin:8px 0 0; font-size:14px;">They forked the repo — their first PR is on the way. Welcome aboard! 🎉</p>
 <br/>
 <div align="center">
   <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=128" width="76" height="76" title="prabhakarReddykanakanti" style="border-radius:50%; border:3px solid #8a6a00; box-shadow:0 0 10px rgba(212,175,55,0.3); margin:8px;" alt="prabhakarReddykanakanti"/></a>
 </div>
-</details>
 
 <!-- Contribute -->
 <div style="margin-top:28px; color:#d4af37; font-weight:700; letter-spacing:3px;">🤝 OPEN FOR CONTRIBUTION</div>
 <p style="color:#9d978a; margin:8px 0; font-size:14px; max-width:600px; line-height:1.6;">
-Students, beginners, developers, designers, and writers — you don't need to understand the whole
-project to make your first contribution. Check the
-<b style="color:#f5d76e;">good first issue</b> labels
-and open your first PR.
+Beginners welcome — you don't need to understand the whole project to make your first contribution.
 </p>
 <p style="margin:4px 0 0;">
   <a href="https://github.com/Mahistra/Sketchstra/issues" style="display:inline-block; background:linear-gradient(135deg,#a67c00,#d4af37); color:#0a0a0d; font-weight:700; border-radius:999px; padding:9px 22px; text-decoration:none;">Browse issues</a>
@@ -191,9 +185,6 @@ and open your first PR.
 
 <div style="color:#8b8470; font-size:13px; letter-spacing:1px;">
   ✦&nbsp; MIT Licensed · Built by the <b style="color:#d4af37;">Mahistra</b> organization &nbsp;✦
-</div>
-<div style="margin-top:6px;">
-  <a href="https://github.com/Mahistra/Sketchstra" style="color:#d4af37; text-decoration:none; font-weight:700;">⭐ Star the repo — it fuels us</a>
 </div>
 
 </div>
