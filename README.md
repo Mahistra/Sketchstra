@@ -146,11 +146,8 @@ Frontend · Canvas engineering · Testing · Design & UX · Documentation · Fut
 A huge thank you to everyone who has helped build Sketchstra:
 
 <div align="center">
-
-| | | |
-| --- | --- | --- |
-| <a href="https://github.com/Mahistra"><img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=96" width="64" height="64" title="Mahistra" /></a> | <a href="https://github.com/ManoShruthiS"><img src="https://avatars.githubusercontent.com/u/202288415?v=4&s=96" width="64" height="64" title="ManoShruthiS" /></a> | |
-
+<a href="https://github.com/Mahistra"><img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=96" width="64" height="64" title="Mahistra" style="margin: 8px" /></a>
+<a href="https://github.com/ManoShruthiS"><img src="https://avatars.githubusercontent.com/u/202288415?v=4&s=96" width="64" height="64" title="ManoShruthiS" style="margin: 8px" /></a>
 </div>
 
 > Want your picture here too? Just open your first pull request! 🚀
@@ -161,11 +158,7 @@ A huge thank you to everyone who has helped build Sketchstra:
 People who have forked Sketchstra and are gearing up to contribute — welcome aboard! 🎉
 
 <div align="center">
-
-| | |
-| --- | --- |
-| <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=96" width="64" height="64" title="prabhakarReddykanakanti" /></a> | |
-
+<a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=96" width="64" height="64" title="prabhakarReddykanakanti" style="margin: 8px" /></a>
 </div>
 
 > Forked Sketchstra and not here yet? Open a PR to add yourself! 🌟
