@@ -9,6 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Open Source](https://img.shields.io/badge/open%20source-❤-brightgreen)]()
 [![Issues](https://img.shields.io/github/issues/Mahistra/Sketchstra)](https://github.com/Mahistra/Sketchstra/issues)
+[![Forks](https://img.shields.io/github/forks/Mahistra/Sketchstra?logo=github)](https://github.com/Mahistra/Sketchstra/forks)
 [![Stars](https://img.shields.io/github/stars/Mahistra/Sketchstra)](https://github.com/Mahistra/Sketchstra)
 
 <p align="center">
@@ -154,6 +155,24 @@ A huge thank you to everyone who has helped build Sketchstra:
 </div>
 
 > Want to see your avatar here? Just open your first pull request! 🚀
+
+<details>
+<summary><b>🍴 Forked by (click to expand)</b></summary>
+
+Thanks to everyone who has forked Sketchstra to explore, remix, or build on it:
+
+<div align="center">
+
+| | |
+| --- | --- |
+| <img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=96" width="64" height="64" /> | |
+| **[prabhakarReddykanakanti](https://github.com/prabhakarReddykanakanti)**<br/>[fork](https://github.com/prabhakarReddykanakanti/Sketchstra) | |
+
+</div>
+
+> This list is manually maintained — if you fork the repo, open a PR to add yourself! 🌟
+
+</details>
 
 ---
 
