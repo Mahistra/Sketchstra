@@ -149,28 +149,26 @@ A huge thank you to everyone who has helped build Sketchstra:
 
 | | | |
 | --- | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=96" width="64" height="64" /> | <img src="https://avatars.githubusercontent.com/u/202288415?v=4&s=96" width="64" height="64" /> | |
-| **[Mahistra](https://github.com/Mahistra)**<br/>9 commits | **[ManoShruthiS](https://github.com/ManoShruthiS)**<br/>6 commits | |
+| <a href="https://github.com/Mahistra"><img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=96" width="64" height="64" title="Mahistra" /></a> | <a href="https://github.com/ManoShruthiS"><img src="https://avatars.githubusercontent.com/u/202288415?v=4&s=96" width="64" height="64" title="ManoShruthiS" /></a> | |
 
 </div>
 
-> Want to see your avatar here? Just open your first pull request! 🚀
+> Want your picture here too? Just open your first pull request! 🚀
 
 <details>
-<summary><b>🍴 Forked by (click to expand)</b></summary>
+<summary><b>🌱 Soon to be contributors (click to expand)</b></summary>
 
-Thanks to everyone who has forked Sketchstra to explore, remix, or build on it:
+People who have forked Sketchstra and are gearing up to contribute — welcome aboard! 🎉
 
 <div align="center">
 
 | | |
 | --- | --- |
-| <img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=96" width="64" height="64" /> | |
-| **[prabhakarReddykanakanti](https://github.com/prabhakarReddykanakanti)**<br/>[fork](https://github.com/prabhakarReddykanakanti/Sketchstra) | |
+| <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=96" width="64" height="64" title="prabhakarReddykanakanti" /></a> | |
 
 </div>
 
-> This list is manually maintained — if you fork the repo, open a PR to add yourself! 🌟
+> Forked Sketchstra and not here yet? Open a PR to add yourself! 🌟
 
 </details>
 
