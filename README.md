@@ -55,7 +55,7 @@ npm run dev   # open http://localhost:5173
 
 ## 👑 Contributors
 
-Thanks to everyone who has built Sketchstra.
+The people building Sketchstra.
 
 <p align="center">
   <a href="https://github.com/Mahistra"><img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=128" width="76" height="76" alt="Mahistra"/></a>
@@ -68,7 +68,7 @@ Thanks to everyone who has built Sketchstra.
 
 ## 🌱 Soon to be Contributors
 
-They forked the repo — their first PR is on the way. Welcome aboard! 🎉
+The next people building Sketchstra.
 
 <p align="center">
   <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=128" width="76" height="76" alt="prabhakarReddykanakanti"/></a>
