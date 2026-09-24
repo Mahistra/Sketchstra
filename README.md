@@ -52,16 +52,14 @@ The Master Minds behind the canvas.
 <p align="center">
   <a href="https://github.com/Mahistra"><img src="https://avatars.githubusercontent.com/u/215033926?v=4&s=128" width="76" height="76" alt="Mahistra"/></a>
   <a href="https://github.com/ManoShruthiS"><img src="https://avatars.githubusercontent.com/u/202288415?v=4&s=128" width="76" height="76" alt="ManoShruthiS"/></a>
+  <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=128" width="76" height="76" alt="prabhakarReddykanakanti"/></a>
 </p>
-
 <hr>
 
 ## 🌱 Next Contributors
 
 The Curious Minds who were inspired enough to fork — their first PR is loading…
 
-<p align="center">
-  <a href="https://github.com/prabhakarReddykanakanti"><img src="https://avatars.githubusercontent.com/u/225586480?v=4&s=128" width="76" height="76" alt="prabhakarReddykanakanti"/></a>
-</p>
+
 <hr>
 <h6 align="center">Mahistra @2025</h6>
